@@ -18,14 +18,3 @@ a {
 #L ~ a {
   background-color: blue;
 }
-
-a {
-  color: white;
-}
-
-span {
-  color: white;
-}
-h1 {
-  color: red;
-}
